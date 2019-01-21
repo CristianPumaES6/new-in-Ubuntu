@@ -6,6 +6,8 @@ Descomprimir el tar.gz
 
 tar -zxvf ubunlog.tar.gz
 
+sh archivo.sh
+
 Compilar
 
     make: Compila todo el proyecto.
